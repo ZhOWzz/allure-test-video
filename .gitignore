@@ -5,3 +5,11 @@ allure-report
 test-v2
 .env
 .venv
+INFO.txt
+pull_test_artefact.yml
+test.yml
+ci-pr-allure-v1.yml
+deploy-allure-v1.yml
+summary-ci-pr.yml
+allure_ci_test.yml
+allure_deploy_test.yml
